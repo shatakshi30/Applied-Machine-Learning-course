@@ -37,6 +37,13 @@ The course was designed to give hands-on experience with real datasets and ML pi
 - Module_13_Image_Classification_PyTorch
 - Module_14_Convolutional_Neural_Networks
 
+Each folder contains:
+- A Jupyter Notebook (`.ipynb`) with practical implementation
+- A `README.md` detailing:
+  - Goals of the module
+  - Key methods and algorithms used
+  - Insights and learnings
+
 ---
 
 ## Tools & Technologies Used
