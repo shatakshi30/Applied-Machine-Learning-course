@@ -22,26 +22,20 @@ The course was designed to give hands-on experience with real datasets and ML pi
 
 ## Repository Structure
 
-Applied-Machine-Learning-course/
-│
-├── Module_01_Exploratory_Analysis/
-├── Module_02_Overfitting_and_Complexity/
-├── Module_03_Preprocessing/
-├── Module_04_Model_Evaluation/
-├── Module_05_Supervised_Classification/
-├── Module_06_Ensemble_Learning/
-├── Module_07_Regression_Modeling/
-├── Module_08_Unsupervised_Clustering/
-├── Module_09_Reinforcement_Learning/
-├── Module_10_Cybersecurity_Detection/
-├── Module_11_Apriori_and_Neural_Networks/
-├── Module_12_Anomaly_Detection/
-├── Module_13_Image_Classification_PyTorch/
-└── Module_14_Convolutional_Neural_Networks/
-
-Each folder contains:
--- Jupyter Notebook (`.ipynb`)
--- `README.md` detailing goals, steps, methods, and insights
+- Module_01_Exploratory_Analysis
+- Module_02_Overfitting_and_Complexity
+- Module_03_Preprocessing
+- Module_04_Model_Evaluation
+- Module_05_Supervised_Classification
+- Module_06_Ensemble_Learning
+- Module_07_Regression_Modeling
+- Module_08_Unsupervised_Clustering
+- Module_09_Reinforcement_Learning
+- Module_10_Cybersecurity_Detection
+- Module_11_Apriori_and_Neural_Networks
+- Module_12_Anomaly_Detection
+- Module_13_Image_Classification_PyTorch
+- Module_14_Convolutional_Neural_Networks
 
 ---
 
