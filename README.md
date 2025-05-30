@@ -1,6 +1,6 @@
 # Applied-Machine-Learning-course
 
-Welcome to my Applied Machine Learning coursework repository, completed as part of my M.S. in Bioinformatics at Johns Hopkins University. This repository contains a structured and well-documented collection of assignments covering a broad spectrum of machine learning topics and real-world applications.
+This repository contains a structured and well-documented collection of assignments covering a broad spectrum of machine learning topics and real-world applications.
 
 Each module is organized into its own folder with a dedicated `README.md` summarizing objectives, tasks, models used, and implementation highlights.
 
